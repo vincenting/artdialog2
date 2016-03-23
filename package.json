@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/vincenting/artdialog2#readme",
   "dependencies": {
-    "jquery": "*"
+    "css-loader": "*",
+    "jquery": "*",
+    "style-loader": "*"
   }
 }
