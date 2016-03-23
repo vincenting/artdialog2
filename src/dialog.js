@@ -10,7 +10,7 @@
 var $ = require('jquery');
 var Popup = require('./popup');
 var defaults = require('./default-config');
-
+// TODO: 后期需要引入新的 API 来替换默认配置
 var _count = 0;
 var _expando = new Date() - 0; // Date.now()
 var _isIE6 = !('minWidth' in $('html')[0].style);
