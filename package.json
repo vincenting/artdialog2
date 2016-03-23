@@ -1,0 +1,26 @@
+{
+  "name": "artdialog2",
+  "version": "0.0.1",
+  "description": "Webpack wrapper for artDialog.",
+  "main": "src/dialog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenting/artdialog2.git"
+  },
+  "keywords": [
+    "artDialog",
+    "dialog"
+  ],
+  "author": "Vincent Ting <homerdd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincenting/artdialog2/issues"
+  },
+  "homepage": "https://github.com/vincenting/artdialog2#readme",
+  "dependencies": {
+    "jquery": "*"
+  }
+}
